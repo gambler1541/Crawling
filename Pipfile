@@ -8,6 +8,7 @@ ipython = "*"
 notebook = "*"
 requests = "*"
 "beautifulsoup4" = "*"
+lxml = "*"
 
 [dev-packages]
 
